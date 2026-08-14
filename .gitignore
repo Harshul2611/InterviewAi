@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.local
+*.log
+dist/
+.next/
+.turbo/
+coverage/
+*.pyc
+__pycache__/
+.venv/
+.DS_Store
+*.key
+*.pem
+docker-compose.override.yml
